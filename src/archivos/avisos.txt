@@ -1,0 +1,9 @@
+todonotebook@gmail.com;notebook asus vivoBook Pro n580g;500000;esta como nuevo impecable, solo tiene un detalle que no prende ni carga.;
+todonotebook@gmail.com;zapato volador;1900000;esta como nuevo impecable, solo no vuela.;
+todonotebook@gmail.com;tarjeta madre luchona;500000;esta como nuevo, impecable, solo tiene un detalle que es muy luchona.;
+todonotebook@gmail.com;teclado gamer rbg ultra gamer;200000;esta como nuevo, impecable, solo tiene un detalle no escribe.;
+todonotebook@gmail.com;mouse gamer rgb;150000;esta como nuevo, impecable, muy gamer, pero no te hara ganar, no es magia.;
+todonotebook@gmail.com;taza de cafe gamer rgba;500000;todo es gamer, incluso es rbga.;
+todonotebook@gmail.com;tarjeta grafica NVidea RTX 9999999;800000;esta como nuevo impecable, solo tiene un detalle que no renderiza.;
+todonotebook@gmail.com;memoria ram ddr4 1GB 10GHZ;10000;esta como nuevo impecable, solo tiene un detalle que es 1 GB.;
+todonotebook@gmail.com;ssd m2 Nvme 10 tb;10000;esta como nuevo impecable, solo tiene un detalle que no graba, pero... son 10tb.;
