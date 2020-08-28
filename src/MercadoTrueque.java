@@ -6,6 +6,7 @@ public class MercadoTrueque {
 
 
     public static void main(String[] args) {
+        // Se crean las instancias de las clases Usuario y Aviso
         Usuario[] arrayUsuarios = new Usuario[100];
         Aviso[] arrayAviso = new Aviso[100];
 
