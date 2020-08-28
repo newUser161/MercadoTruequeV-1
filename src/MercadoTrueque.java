@@ -26,8 +26,10 @@ public class MercadoTrueque {
             // variables locales //
             int i;
 
-            //*************** Lectura de los usuarios **************//
-            File lectorArchivos = new File("src\\archivos\\usuarios.txt");
+            /*
+            *   Lectura de datos
+            * */
+            File lectorArchivos = new File("usuarios.txt");
             Scanner scanner = new Scanner(lectorArchivos);
             scanner.useDelimiter(";");
             i = 0;
@@ -44,7 +46,7 @@ public class MercadoTrueque {
             }
 
             //*************** Lectura de los avisos **************//
-            lectorArchivos = new File("src\\archivos\\avisos.txt");
+            lectorArchivos = new File("avisos.txt");
             scanner = new Scanner(lectorArchivos);
             scanner.useDelimiter(";");
             i = 0;
